@@ -1,0 +1,7 @@
+Subjects:
+Java
+Software Engineering
+Chemistry
+Physics
+Data Structures
+Python
